@@ -1,0 +1,8 @@
+pip install streamlit google-generativeai python-dotenv
+
+
+
+streamlit run app.py
+
+
+streamlit run minorproject.py
