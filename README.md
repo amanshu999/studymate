@@ -37,7 +37,7 @@
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/study-mate.git
+    git clone https://github.com/amanshu999/study-mate.git
     cd study-mate
     ```
 
