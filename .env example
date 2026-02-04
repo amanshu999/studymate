@@ -1,0 +1,5 @@
+# Gemini API Key (get from https://aistudio.google.com/apikey)
+
+GEMINI_API_KEY = "paste_your_api_key_here"
+
+change the file name to .env

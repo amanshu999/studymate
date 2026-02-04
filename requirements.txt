@@ -1,5 +1,6 @@
 streamlit>=1.28.0
 google-generativeai>=0.3.0
 python-dotenv>=1.0.0
+fpdf>=1.7.2
 
 # streamlit run 4st.py --server.port=8501 
